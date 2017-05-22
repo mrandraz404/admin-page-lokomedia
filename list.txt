@@ -6,6 +6,10 @@ admin3/
 admin4/
 admin5/
 retel/
+panel/
+panel/login.php
+index.php/admin/login
+admin/login
 operator/
 moderator/
 adm/
